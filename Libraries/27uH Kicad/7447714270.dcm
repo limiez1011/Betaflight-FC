@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 7447714270
+D WE-PD Performance SMT Shielded Power Inductor Size 1050; L = 27 H +/-20%; IR = 2.6 A; Isat = 3.4 A; RDC = 74 m
+K
+F https://www.we-online.com/catalog/datasheet/7447714270.pdf
+$ENDCMP
+#
+#End Doc Library

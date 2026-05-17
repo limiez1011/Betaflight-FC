@@ -1,0 +1,16 @@
+.W25Q128JVPIQ_TR :1 ;NOR Flash spiFlash, 3V, 128M-bit, 4Kb Uniform Sector
+SON127P600X500X80-9N-D
+*STM IC
+*NGS
+*PLB 1="'CS'" 2="DO (IO1)" 3="'WP (IO2)'" 4="GND" 5="DI (IO0)" 6="CLK" 7="'HOLD OR RESET (IO3)'" 8="VCC" 9="EP"
+*MXP 9
+*DFN W25Q128JVPIQ_TR
+~!Mouser Part Number (454-W25Q128JVPIQTR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Winbond/W25Q128JVPIQ-TR?qs=qSfuJ%252Bfl%2Fd6H7vbXyrDu3w%3D%3D)
+~!Manufacturer_Name (Winbond)
+~!Manufacturer_Part_Number (W25Q128JVPIQ TR)
+~!Link Datasheet (https://www.winbond.com/resource-files/w25q128jv%20revf%2003272018%20plus.pdf)
+~!Height (0.8mm)
+~!3D_Model (W25Q128JVPIQ_TR)
+W25Q128JVPIQ_TR
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=Winbond
+PartNumber=W25Q128JVPIQ TR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=9
+Version=1.1
+Released=2022-04-20 09:04:58
+Downloaded=2026-05-11 18:50:56
+3D=Y
