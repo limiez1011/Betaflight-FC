@@ -15,12 +15,14 @@ open-source (not that anyone would want to use it) 40x40 F405 Flight controller 
 - Full betaflight support
 - ICM 42688-P (kind of a flex with how hard they are to get nowadays)
 - 4V5 Pads for RX
+
 This is the first revision of the yecnodF405 so expect more features on the 2nd.
 
 ## COST
 
 - AROUND 60 USD PER PCB
 - AROUND 30 USD FOR 5 PCBS
+
 On my next revision I will try to cut the costs by atleast 40%
 
 ## BOM
