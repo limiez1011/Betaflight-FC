@@ -30,3 +30,7 @@ On my next revision I will try to cut the costs by atleast 40%
 <img width="1140" height="1072" alt="image" src="https://github.com/user-attachments/assets/e5eff88b-3744-4156-a4e1-31f9d1a22271" />
 <img width="1950" height="1370" alt="image" src="https://github.com/user-attachments/assets/596ec015-b1d5-4080-9dd2-f341188171a8" />
 
+### Notes
+- This is my 2nd ever electronics project (Although I made another 3 during the break I took on this project) so don't expect everything to be electrically sound, this has been a great learning experience though, even with all the headaches it gave me.
+- The jlcpcb BOM is only partly complete since I've decided to not use PCBA (use at you own risk some parts may not be right)
+
