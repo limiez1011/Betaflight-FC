@@ -2,6 +2,7 @@
 
 ## Description
 
+open-source (not that anyone would like to use it) 40x40 F405 Flight controller using betaflight software.
 ## Features
 
 - 3 Universal UARTS
