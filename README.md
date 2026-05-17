@@ -23,7 +23,8 @@ This is the first revision of the yecnodF405 so expect more features on the 2nd.
 - AROUND 30 USD FOR 5 PCBS
 On my next revision I will try to cut the costs by atleast 40%
 
-### Notes
+## Notes
+
 - This is my 2nd ever electronics project (Although I made another 3 during the break I took on this project) so don't expect everything to be electrically sound, this has been a great learning experience though, even with all the headaches it gave me.
 - The jlcpcb BOM is only partly complete since I've decided to not use PCBA (use at you own risk some parts may not be right)
 
