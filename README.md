@@ -89,8 +89,8 @@ On my next revision I will try to cut the costs by atleast 40%
 - The jlcpcb BOM is only partly complete since I've decided to not use PCBA (use at you own risk some parts may not be right)
 
 ## Photos
-<img width="1567" height="1041" alt="image" src="https://github.com/user-attachments/assets/fe196f39-6a15-4992-a517-0aa2f6924301" />
-<img width="615" height="638" alt="image" src="https://github.com/user-attachments/assets/4f0e1641-aa04-49ef-99ed-7124c17e3d38" />
+<img width="1228" height="852" alt="Screenshot 2026-06-30 133439" src="https://github.com/user-attachments/assets/946c2508-b674-4126-abb3-77c46141a56d" />
+<img width="1051" height="777" alt="Screenshot 2026-06-30 133509" src="https://github.com/user-attachments/assets/cd058bd5-a491-46fc-a592-ff07f0b2fe1c" />
 <img width="641" height="654" alt="image" src="https://github.com/user-attachments/assets/d846d424-fab3-4289-895c-4f54548c8789" />
 <img width="1140" height="1072" alt="image" src="https://github.com/user-attachments/assets/e5eff88b-3744-4156-a4e1-31f9d1a22271" />
 <img width="1950" height="1370" alt="image" src="https://github.com/user-attachments/assets/596ec015-b1d5-4080-9dd2-f341188171a8" />
