@@ -1,4 +1,3 @@
-[20x20 fc.pdf](https://github.com/user-attachments/files/29501861/20x20.fc.pdf)
 # yecnod F405 V1.1
 
 ## Description
@@ -18,6 +17,8 @@ open-source (not that anyone would want to use it) 40x40 F405 Flight controller 
 - 4V5 Pads for RX
 
 This is the first revision of the yecnodF405 so expect more features on the 2nd.
+
+[Schematic PDF](https://github.com/user-attachments/files/29501861/20x20.fc.pdf)
 
 ## COST
 
