@@ -105,6 +105,8 @@
 #define SYSTEM_HSE_MHZ 16
 
 #define ESC_SENSOR_UART      SERIAL_PORT_UART5
+
+#define PINIO1_PIN PC4
 #define PINIO1_BOX     40
 #define PINIO1_CONFIG  129
 #define BOX_USER1_NAME "10V BEC"
