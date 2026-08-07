@@ -40,6 +40,8 @@ On my next revision I will try to cut the costs by atleast 40%
 | 7 | JLCPCB      | PCBS                                   | 5   | $12.71 | [LINK](https://jlcpcb.com/)                                                                                                                                                                                                                                                                 |
 | 8 | TARIFFS     | dumb eu laws                           | 1   | $41    |                                                                                                                                                                                                                                                                                             |
 
+Final prices for each website are available as screenshots on the macondo website. LCSC cart BOM is available as a csv. 
+Total price for everything is 204.73 USD
 ## Notes
 
 - This is my 2nd ever electronics project (Although I made another 3 during the break I took on this project) so don't expect everything to be electrically sound, this has been a great learning experience though, even with all the headaches it gave me.
